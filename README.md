@@ -13,10 +13,8 @@
 ## Program
 The Bluetooth of the board will wake up every 5 min and stay wake for 30 seconds, 
 ### BLE
-1.
 ### ADC
 1. Smapling Frequency:
 2. Reference Voltage:
 3. Gain:
 4. Resolution
-5. 
