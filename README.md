@@ -6,7 +6,7 @@
 2. Power Profiler Kit II
 
 ## Software Requirement
-1. Segger Embedded Studio
+1. Segger Embedded Studio (for arm; preferred version: 5.42a)
 2. nRF Connect for Desktop
 3. nRF5_SDK-17.1.0
 
